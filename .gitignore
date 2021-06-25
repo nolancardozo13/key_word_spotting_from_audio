@@ -1,0 +1,13 @@
+# Data files and directories common in repo root
+*.h5
+*.wav
+*.npz
+
+!data/bird/00b01445_nohash_0.wav
+!data/no/0a2b400e_nohash_0.wav
+
+!images/*
+
+# Jupyter Notebook
+*/.ipynb_checkpoints
+.ipynb_checkpoints
